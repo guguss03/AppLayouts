@@ -15,29 +15,29 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Testando ScrollView"
+            android:text="Testando o ScrollView"
             android:textSize="30sp"
             android:textStyle="bold" />
 
         <ImageView
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="30dp"
-            android:layout_width="200dp"
-            android:layout_height="200dp"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
             android:src="@drawable/limões"/>
 
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="50dp"
-            android:hint="Insira o nome do usuário"
+            android:hint="Nome do usuário"
             android:inputType="textPersonName"
             android:padding="10dp" />
 
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Insira a senha do usuário"
+            android:hint="Senha do usuário"
             android:padding="10dp" />
 
         <Button
